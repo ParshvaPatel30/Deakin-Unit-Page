@@ -1,0 +1,48 @@
+[1mdiff --cc index.html[m
+[1mindex fdb2694,7cee7cf..0000000[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@@ -6,29 -6,16 +6,43 @@@[m
+  </head>[m
+  <body>[m
+  <h1>SIT223-SIT753 - Professional Practice in IT</h1>[m
+[32m++<<<<<<< HEAD[m
+[32m +<h2> Unit details</h2>[m
+[32m +<table style="width:100%">[m
+[32m +<tr>[m
+[32m +<td>Year: </td>[m
+[32m +<td>2023 unit information</td>[m
+[32m +</tr>[m
+[32m +<tr>[m
+[32m +<td>Enrolment modes:</td>[m
+[32m +<td>Trimester 1: Burwood (Melbourne), Geelong, Cloud (online)</td>[m
+[32m +</tr>[m
+[32m +<tr>[m
+[32m +<td>Credit point(s):</td>[m
+[32m +<td>1</td>[m
+[32m +</tr>[m
+[32m +<tr>[m
+[32m +<td> Unit Chair:</td>[m
+[32m +<td> Trimester 1: Azadeh Ghari Neiat</td>[m
+[32m +</tr>[m
+[32m +<tr>[m
+[32m +<td> Scheduled Learning Activities:</td>[m
+[32m +<td> 1 x 3 hour active class per week, weekly drop in support.</td>[m
+[32m +</tr>[m
+[32m +</table>[m
+[32m +</table>[m
+[32m++=======[m
+[32m+ <h3> Content</h3> [m
+[32m+ <p> [m
+[32m+ To be successful IT graduates need to understand the use of industry tools and practices,  [m
+[32m+ the ways these tools work and connect together, and the underlying professional, ethical,  [m
+[32m+ and teamwork knowledge and skills needed to put these into practice in a professional manner. [m
+[32m+ </p>[m
+[32m+ <h3>Hurdle requirement</h3> [m
+[32m+ <p> [m
+[32m+ To be eligible to obtain a pass in this unit, students must meet certain milestones as part of the portfolio. [m
+[32m+ </p> [m
+[32m+ <a href="https://www.deakin.edu.au/students/enrolment-and-fees/fees"> > Current students</a>[m
+[32m++>>>>>>> add-unit-content[m
+  </body>[m
+  </html>[m
